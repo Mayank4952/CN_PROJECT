@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Presentation related files
+*.pptx
+*.ppt
+~$*.pptx
+~$*.ppt
+presentation.html
+PRESENTATION.md
+scripts/*pptx*.ps1
+scripts/*presentation*.ps1
+scripts/build_award_winning_deck.ps1
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
